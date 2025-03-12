@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "tek_a": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7203",
+      "launchBrowser": false
+    }
+  }
+}
