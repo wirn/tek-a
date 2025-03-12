@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\EricBj\u00F6rklund\\Desktop\\exrementera\\dotnet\\tek-a\\tek-a\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6D7278B7-D596-4982-A69C-B485164B118C}|tek-a\\tek-a.csproj|c:\\users\\ericbj\u00F6rklund\\desktop\\exrementera\\dotnet\\tek-a\\tek-a\\tek-a\\stockdatafetcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D7278B7-D596-4982-A69C-B485164B118C}|tek-a\\tek-a.csproj|solutionrelative:tek-a\\stockdatafetcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6D7278B7-D596-4982-A69C-B485164B118C}|tek-a\\tek-a.csproj|c:\\users\\ericbj\u00F6rklund\\desktop\\exrementera\\dotnet\\tek-a\\tek-a\\tek-a\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D7278B7-D596-4982-A69C-B485164B118C}|tek-a\\tek-a.csproj|solutionrelative:tek-a\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7278B7-D596-4982-A69C-B485164B118C}|tek-a\\tek-a.csproj|c:\\users\\ericbj\u00F6rklund\\desktop\\exrementera\\dotnet\\tek-a\\tek-a\\tek-a\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D7278B7-D596-4982-A69C-B485164B118C}|tek-a\\tek-a.csproj|solutionrelative:tek-a\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +34,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\EricBj\u00F6rklund\\Desktop\\exrementera\\dotnet\\tek-a\\tek-a\\tek-a\\local.settings.json",
+              "RelativeDocumentMoniker": "tek-a\\local.settings.json",
+              "ToolTip": "C:\\Users\\EricBj\u00F6rklund\\Desktop\\exrementera\\dotnet\\tek-a\\tek-a\\tek-a\\local.settings.json",
+              "RelativeToolTip": "tek-a\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T09:47:27.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "StockDataFetcher.cs",
+              "DocumentMoniker": "C:\\Users\\EricBj\u00F6rklund\\Desktop\\exrementera\\dotnet\\tek-a\\tek-a\\tek-a\\StockDataFetcher.cs",
+              "RelativeDocumentMoniker": "tek-a\\StockDataFetcher.cs",
+              "ToolTip": "C:\\Users\\EricBj\u00F6rklund\\Desktop\\exrementera\\dotnet\\tek-a\\tek-a\\tek-a\\StockDataFetcher.cs",
+              "RelativeToolTip": "tek-a\\StockDataFetcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T09:44:26.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Function1.cs",
               "DocumentMoniker": "C:\\Users\\EricBj\u00F6rklund\\Desktop\\exrementera\\dotnet\\tek-a\\tek-a\\tek-a\\Function1.cs",
               "RelativeDocumentMoniker": "tek-a\\Function1.cs",
               "ToolTip": "C:\\Users\\EricBj\u00F6rklund\\Desktop\\exrementera\\dotnet\\tek-a\\tek-a\\tek-a\\Function1.cs",
               "RelativeToolTip": "tek-a\\Function1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T09:29:37.961Z",
               "EditorCaption": ""
